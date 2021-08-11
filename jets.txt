@@ -1,0 +1,6 @@
+SpacePlane	AlbatrossMk1	2100.0	8.3E7	3300	250	18	NA	NA	NA
+CargoJet	BessyLifter	370.0	1.2E7	2360	NA	NA	22.5	NA	NA
+JetImpl	PeopleHopper	324.0	8520000.0	1950	NA	NA	NA	NA	NA
+OrbitalSpyPlane	U-7X	295.0	2.9E7	6100	1200	36	NA	172.6	18
+StealthReconJet	SneakySnapper	110.0	1.798E7	800	NA	NA	NA	74.7	3
+JetImpl	SnuggleBus	150	8.9E5	500	NA	NA	NA	NA	NA
